@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Raushan</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
+- I am an experienced AI/ML professional with a strong background in computer vision and natural language processing (NLP). Over the past 2 years, I have honed my skills in developing and deploying machine learning models, handling complex datasets, and delivering innovative solutions for various AI projects.
+
+Currently, I work as a Software Engineer at Infogen-labs, where I have contributed to diverse projects such as point cloud health validation, noise removal, and hip detection using YOLO object detection. Additionally, I have created a voice cloning system and developed a proof of concept for generating 3D models from images. My role also involves extracting information from engineering drawings using object detection and OCR.
+
+I hold a Master of Science in Mathematics and Computing from Banaras Hindu University and a Bachelor of Science in Math Hons. from Patna Science College. My technical expertise includes Python, Keras, Pytorch, NLTK, Scikit-Learn, Computer Vision, YOLO, and OCR.
+
+I am passionate about continuous learning and staying updated with the latest advancements in AI and machine learning. I am adaptable, detail-oriented, and a strong team player who thrives in fast-paced environments. I am always eager to take on new challenges and contribute to innovative projects.
+
+Feel free to connect with me to discuss potential collaborations, opportunities, or to share insights on the latest trends in AI and machine learning.
+
 - 🔭 I’m currently working on **Text to Audio**
 
 - 🌱 I’m currently learning **LLM's, Gen AI**
